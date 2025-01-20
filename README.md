@@ -50,14 +50,14 @@ Driven by a spirit of discovery, I pursue the perfect fusion of wet-lab expertis
 <!-- Experience & Projects (stylish minimal approach) -->
 ## Selected Pursuits
 
-### Master’s Research @ Saarland University
+### Master’s Thesis @ Saarland University
 - *Chair for Clinical Bioinformatics*  
 - Predicting and investigatiing **Alzheimer’s disease** with single-cell brain data → harnessing scRNA-seq to reveal novel biomarkers  
 - **Advisor**: Prof. Dr. Andreas Keller | M.Sc. Friederike Grandke  
 - Using advanced feature engineering techniques and ML methods for classification and early detection
 
 ### HiWi Projects
-- **Heart Insufficiency Prediction** *(10/2023–Present)*  
+- **Heart Insufficiency Prediction** *(10/2023–10/2024)*  
   - Prediction of heart insufficiencies from thoracic impedance values using deep-learning methods for an automated early warning system design  
   - Time-series data anlysis with **LSTMs**
 
